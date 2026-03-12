@@ -44,6 +44,5 @@ All product names, descriptions, and images belong to their respective owners.
 
 5. Access the site in browser: http://localhost/beautysecrets
 
-**live demo :**
-
+**Live Demo :**
 https://beautysecrets.wuaze.com/index.php
