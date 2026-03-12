@@ -1,0 +1,86 @@
+button,a.maklumat,a.banding {
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    color: black;
+
+    width: 90px;
+    padding: 7px 8px 7px 32px;
+    border: 1px solid tan;
+    border-radius: 7px;
+    margin-top: 10px;
+    background-position: 8px;
+    background-repeat: no-repeat;
+    background-color: tan;
+}
+
+/*Mengisytihar butang sigin*/
+button.login {
+    background-image: url(imej/signin.png);
+}
+/*Mengisytihar butang signup*/
+button.signup {
+    background-image: url(imej/signup.png);
+}
+/*Mengisytihar butang batal*/
+button.batal {
+    background-image: url(imej/delete2.png);
+}
+/*Mengisytihar butang import*/
+button.import {
+    background-image: url(imej/import.png);
+}
+/*Mengisytihar butang tambah*/
+button.tambah {
+    background-image: url(imej/add.png);
+}
+/*Mengisytihar butang update*/
+button.update {
+    background-image: url(imej/update.png);
+}
+/*Mengisytihar butang merah*/
+button.merah {
+    background-image: url(imej/red.png);
+}
+/*Mengisytihar butang biru*/
+button.biru {
+    background-image: url(imej/blue.png);
+}
+/*Mengisytihar butang hijau*/
+button.hijau {
+    background-image: url(imej/green.png);
+}
+/*Mengisytihar butang hitam*/
+button.hitam {
+    background-image: url(imej/black.png);
+}
+/*Mengisytihar butang cetak*/
+button.cetak {
+    background-image: url(imej/printer.png);
+    margin-bottom: 25px;
+}
+/*Mengisytihar butang search*/
+button.cari {
+    background-image: url(imej/search.png);
+
+}
+/*Mengisytihar butang info*/
+a.maklumat {
+    width: 110px;
+    text-decoration: none;
+    background-image: url(imej/info.png);
+}
+/*Mengisytihar butang banding*/
+a.banding {
+    width: 110px;
+    text-decoration: none;
+    background-image: url(imej/note.png);
+}
+
+button:hover,
+a.maklumat:hover,
+a.banding:hover {
+    background-color: wheat;
+    cursor: pointer;
+}
