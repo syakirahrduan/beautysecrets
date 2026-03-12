@@ -5,13 +5,13 @@ It’s a catalog-style system for skincare products, built with PHP and MySQL.
 
 **Features :**
 
-**User (Pembeli)**
+**Customer (Pembeli)**
 - Browse product catalog with descriptions and prices
 - Search products by budget
 - Sort products by brand
 - Compare products side-by-side (ingredients, price)
 
-**Admin (Pengurus)**
+**Admin/Manager (Pengurus)**
 - Manage product list (add, edit, delete)
 - Manage buyers (add, edit, list)
 - Manage managers (add, edit, list)
