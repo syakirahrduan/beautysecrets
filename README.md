@@ -28,3 +28,19 @@ It’s a catalog-style system for skincare products, built with PHP and MySQL.
 
 This project was created purely for **educational purposes** during SPM coursework.  
 All product names, descriptions, and images belong to their respective owners.
+
+**How to Run Locally :**
+
+1. Clone or download this repository.
+
+2. Open **XAMPP** and start Apache and MySQL.
+
+3. Import the database:
+   - Go to **phpMyAdmin** ('http://localhost/phpmyadmin').
+   - Create a new database (e.g., 'beautysecrets').
+   - Import the SQL file ('beautysecrets.sql') from this repo.
+
+4. Place the project files inside 'htdocs' folder (e.g., 'C:/xampp/htdocs/beautysecrets').
+
+5. Access the site in browser: http://localhost/beautysecrets
+
